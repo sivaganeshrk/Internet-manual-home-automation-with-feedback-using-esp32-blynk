@@ -1,23 +1,3 @@
-/*************************************************************
- This is the code for the project called
-
- Internt,W/O Internet & Manual Home Automation project using Blynk IOT Platform
- Here is the full tutorial video of this project 
- https://youtu.be/dHuqD-EaL-U
-
-
- Subscriber to techiesms YouTube channel for more such amazing and unique
- electronic project tutorials 
- https://www.youtube.com/techiesms
-
- This code is provided open only for fair use like projects and education purpose only
- Any one using this code or any material for the purpose other then fair use
- will be considered as breaking the rules of open source material
- and will be taken necesasary actions against them. 
-
-        #techiesms
- explore | learn | share 
- *************************************************************/
 #include <WiFi.h>
 #include <WiFiClient.h>
 #include <BlynkSimpleEsp32.h>
